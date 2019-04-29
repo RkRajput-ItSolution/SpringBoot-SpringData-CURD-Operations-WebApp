@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot-Web-CurdOperations
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rahul Kumar
+Implementation-Vendor-Id: com.web.bs
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-J
+ pa-DBOperations/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
